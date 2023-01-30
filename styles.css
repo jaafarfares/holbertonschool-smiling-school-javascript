@@ -1,0 +1,163 @@
+
+
+.profile-img {
+    width: 70%;
+    max-width: 150px;
+    height: auto;
+  }
+
+
+button:hover, button:active {
+    opacity: 0.9;
+}
+
+
+  @media only screen and (max-width: 578px){
+    * {text-align: center;}
+  
+  }
+  
+    @media only screen and (max-width: 578px){
+      * {
+      text-align:center;
+      font-size: 0.9em;
+  
+      }
+      h1, h2, h3, h4, h5, h6 {
+      font-size: 2em;
+  
+      }
+      .carousel-quote-fz {
+          font-size: 1rem;
+        }
+        .blockquote {
+          font-size: 1rem;
+        }
+        .carousel-img{
+          align-items: flex-start !important;
+          text-align: center !important;
+        }
+    
+    }
+  
+    .pink-bg {
+      background-color: #c271ff;
+      color: #c271ff;
+    }
+    
+    .pink-text {
+      color: #c271ff;
+  
+    }
+  
+    .pink-border {
+      border-color: #c271ff;
+    }
+  
+  
+  
+    .carousel-section {
+      height: 200px !important;  }
+  
+      .cards-wrapper {
+          display: flex;
+          justify-content: center;
+        }
+        .card img {
+          max-width: 300px;
+          max-height: 154px;
+        }
+  
+        .card {
+          width: 290px;
+        }
+  
+  
+        .ph-avatar{
+          max-width: 30px !important;
+          max-height: 30px !important;
+        }
+  
+  /* top | right | bottom | left */
+        .play-btn {
+          margin: -110px 0 40px 97px;
+  
+        }
+
+  /* top | right | bottom | left */
+
+        .play-btn1 {
+            margin: -451px 0 30px 60px;
+            width:70px; height:70px;
+    
+          }
+    
+  
+  
+  
+        .bg-black {
+          background-color: black;
+        }
+   
+  .my-p {
+    font-size: 12px;
+  }
+  
+  
+  .my-headear {
+  
+  }
+  
+  .form-control{
+    
+    height: 60px;
+  }
+  
+  .my3_carousel{
+  
+  }
+  
+  
+  .star-size{
+    width: 20px;
+    height: 20px;
+  }
+  .loader {
+    border: 10px solid #f3f3f3;
+    border-top: 10px solid #C271FF;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    animation: spin 2s linear infinite;
+    margin: auto;
+}
+  
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+
+.my-text{
+    align-items: center !important;
+    margin-top: 90px;
+    margin-right: 220px;
+    margin-bottom: 23px;
+    margin-left: 10px;
+    width: auto;
+    font-size: 23px;
+}
+.carousel-img{
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
+
